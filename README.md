@@ -1,29 +1,34 @@
-<h1 align="center">🔒 Cybersecurity Professional</h1>
-<h3 align="center">Penetration Tester | SIEM Specialist | Security Researcher</h3>
+# 🔒 Cybersecurity Specialist
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SIEM-00D26A?style=for-the-badge" />
-</p>
+**Graduado em Cybersecurity | AppSec & Red Team | Secure Code Enthusiast**
 
-## 🛡️ Sobre Mim
+## 🛠️ Technical Skills
+- **Languages:** Python, Bash, SQL
+- **Tools:** Metasploit, Wireshark, Burp Suite, Nessus
+- **Platforms:** Kali Linux, Ubuntu, Windows Server
+- **Focus:** Network Security, Malware Analysis, Vulnerability Assessment
 
+## 📌 Featured Projects
+
+### [🔍 Network Security Scanner](https://github.com/alemaowhy/network-scanner)
+Ferramenta em Python para varredura de rede e detecção de vulnerabilidades
 ```python
-class CybersecurityAnalyst:
-    def __init__(self):
-        self.name = "alemadowhy"
-        self.role = "Cybersecurity Professional"
-        self.skills = {
-            'offensive_security': ['Penetration Testing', 'Vulnerability Assessment', 'Red Teaming'],
-            'tools': ['Metasploit', 'Burp Suite', 'Wireshark', 'Nmap'],
-            'languages': ['Python', 'Bash', 'SQL'],
-            'defensive': ['SIEM', 'Threat Hunting', 'Incident Response']
-        }
-    
-    def say_hi(self):
-        print("Always learning, always hacking (ethically!)")
+# Exemplo de uso
+python network_scanner.py --target 192.168.1.0/24
+```
 
-me = CybersecurityAnalyst()
-me.say_hi() markdown 
+### [🛡️ OWASP Top 10 Lab](https://github.com/alemaowhy/owasp-lab)  
+Ambiente prático para estudo das principais vulnerabilidades web
+
+### [📊 Malware Analysis Reports](https://github.com/alemaowhy/malware-analysis)
+Coleção de análises estáticas e dinâmicas de malware
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alemaowhy&show_icons=true&theme=dark)
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alemaowhy)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alemaowhy)
+
+---
+⭐ *From [Alemao](https://github.com/alemaowhy)*
